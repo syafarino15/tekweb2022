@@ -239,7 +239,7 @@ data:{
       "desk": "Python adalah bahasa pemrograman yang digunakan dalam pengembangan website agar lebih dinamis dan interaktif. Bahkan dengan JavaScript ini kamu bisa membuat aplikasi, tools, atau bahkan game pada web"
 }
 
-PUT: /portofolio/[6]
+PUT: /artikel/[7]
 
 data:{
       "title": "C++",
